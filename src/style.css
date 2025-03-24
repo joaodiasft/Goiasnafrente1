@@ -1,0 +1,139 @@
+/* General Styles */
+:root {
+  --primary: #198754;
+  --primary-dark: #146c43;
+  --dark: #212529;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: var(--dark);
+  background-color: #f8f9fa;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: var(--dark);
+}
+
+.footer .hover-success:hover {
+  color: var(--primary) !important;
+}
+
+.footer .social-icons a {
+  transition: transform 0.3s ease;
+}
+
+.footer .social-icons a:hover {
+  transform: translateY(-3px);
+  color: var(--primary) !important;
+}
+
+/* Instagram Page Styles */
+.instagram-post {
+  transition: transform 0.3s ease;
+}
+
+.instagram-post:hover {
+  transform: translateY(-5px);
+}
+
+.instagram-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.instagram-post:hover .instagram-overlay {
+  opacity: 1;
+}
+
+.highlight-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, var(--primary), var(--primary-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.reel-item {
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
+.reel-overlay {
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+}
+
+/* Weather Widget */
+.weather-widget {
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
+}
+
+.weather-widget .text-dark {
+  color: var(--dark) !important;
+}
+
+/* Back to Top Button */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* News Cards */
+.news-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0.1);
+}
+
+.news-card .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Category Cards */
+.category-card {
+  transition: transform 0.3s ease;
+  border: none;
+  border-radius: 1rem;
+  background: white;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .highlight-circle {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .news-card .card-img-top {
+    height: 180px;
+  }
+}
