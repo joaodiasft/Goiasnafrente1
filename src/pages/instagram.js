@@ -157,19 +157,19 @@ function createInstagramHighlights() {
 function createInstagramReels() {
   const reels = [
     {
-      thumbnail: "CAMARA_EXPEDICAO_300x500px.gif",
-      title: "Camara de Expedição",
+      thumbnail: "https://drive.google.com/file/d/1rEvz9-Yg2qhtBOPHh2rWVTn_6QCgmh3G/view?usp=sharing",
+      title: "Um dia na Assembleia Legislativa",
       views: "50k",
       duration: "0:59"
     },
     {
-      thumbnail: "C:\Users\joaod\Downloads\goiasnafrente-main\goiasnafrente-main\src\pages\CAMARA_EXPEDICAO_300x500px.gif",
-      title: "Bastidores do Goiás x Vila Nova",
+      thumbnail: "https://drive.google.com/file/d/1EXuHZxca6J-wjRWoGbC9Ladof9aJPFxN/view?usp=drive_link",
+      title: "camera em expedição",
       views: "45k",
       duration: "0:45"
     },
     {
-      thumbnail: "\src\pages\CAMARA_EXPEDICAO_300x500px.gif",
+      thumbnail: "https://img.ge/mRSPm6UqXCqaaRa",
       title: "Festival Gastronômico de Goiás",
       views: "38k",
       duration: "0:52"
