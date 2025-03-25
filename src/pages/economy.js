@@ -16,19 +16,19 @@ function createEconomyNews() {
     {
       title: "IPVA: 15 de janeiro é data limite para desconto de 8%",
       description: "Secretaria da Economia anuncia que, a partir de 2025, o calendário para pagamento começa na mesma data para todos os finais de placas.",
-      image: "ec1.jpg",
+      image: "https://img.ge/ib/z7P2otokJyMv4aL_1742909126.jpg",
       date: "Há 1 hora"
     },
     {
       title: "Economia de Goiás cresce 5,5% em outubro",
       description: "Prévia do Produto Interno Bruto (PIB), Índice de Atividade Econômica Regional (IBCR) considera a produção dos setores de agricultura, indústria e serviços.",
-      image: "ec2.jpeg",
+      image: "https://img.ge/ib/aQp60J35imW61EB_1742909126.jpg",
       date: "Há 3 horas"
     },
     {
       title: "Sanear 2024 é prorrogado até 31 de dezembro",
       description: "Descontos são de até 95% sobre multa, juros e atualização monetária. Negociação vale para faturas em aberto até maio de 2024.",
-      image: "ec3.jpg",
+      image: "https://img.ge/ib/du9G9lQNWI8ZP59_1742909126.jpeg",
       date: "Há 5 horas"
     }
   ];

@@ -157,22 +157,22 @@ function createInstagramHighlights() {
 function createInstagramReels() {
   const reels = [
     {
-      thumbnail: "https://drive.google.com/file/d/1rEvz9-Yg2qhtBOPHh2rWVTn_6QCgmh3G/view?usp=sharing",
-      title: "Um dia na Assembleia Legislativa",
+      thumbnail: "https://img.ge/ib/XrymznL8vmuuhfX_1742909582.png",
+      title: "Medico Falece Durante Cirurgia",
       views: "50k",
       duration: "0:59"
     },
     {
-      thumbnail: "https://drive.google.com/file/d/1EXuHZxca6J-wjRWoGbC9Ladof9aJPFxN/view?usp=drive_link",
-      title: "camera em expedição",
+      thumbnail: "https://img.ge/ib/GvB9nngUrhulZV9_1742909518.png",
+      title: "Homem foge com viatura da PRF",
       views: "45k",
       duration: "0:45"
     },
     {
       thumbnail: "https://img.ge/ib/Kol3TOieLnVV3WE_1742908437.gif",
-      title: "Festival Gastronômico de Goiás",
+      title: "Exposiçãoo Goias",
       views: "38k",
-      duration: "0:52"
+      duration: "0:12"
     }
   ];
 

@@ -16,25 +16,25 @@ function createCultureNews() {
     {
       title: "Ossadas com mais de 200 anos são descobertas durante restauração de Igreja em Jaraguá",
       description: "Cerca de 150 sepultamentos foram encontrados no local. A obra de restauração está sendo executada pelo Governo de Goiás e a previsão é de que seja concluída em 2025 A restauração da Igreja Nossa Senhora do Rosário dos Pretos, em Jaraguá, culminaram em uma importante descoberta arqueológica.",
-      image: "osos.jpeg",
+      image: "https://img.ge/ib/7CGeYNU19wjXKZB_1742909706.jpeg",
       date: "Há 5 horas"
     },
     {
       title: "Governo de Goiás paga todos os editais da Pnab 2024",
       description: "Estado é o primeiro do país a finalizar os pagamentos aos proponentes aprovados e aptos a receber no certame O Governo de Goiás, por meio da Secretaria de Estado da Cultura (Secult), finalizou nesta semana os pagamentos aos proponentes aprovados e aptos a receber nos editais da Política",
-      image: "pnga.jpeg",
+      image: "https://img.ge/ib/LHZQXAiagFHI1rX_1742909706.jpeg",
       date: "Há 4 horas"
     },
     {
       title: "Secult Goiás divulga funcionamento dos espaços culturais durante os feriados de fim de ano",
       description: "Unidades fecham de 21 a 25 de dezembro e de 28 de dezembro a 1º de janeiro. Programações retornam no início de janeiro Os espaços culturais administrados pela Secretaria de Estado da Cultura de Goiás (Secult) terão alterações no funcionamento durante os feriados de fim de ano.",
-      image: "secult.jpg",
+      image: "https://img.ge/ib/oudpEGONVFbn1dL_1742909706.jpg",
       date: "Há 6 horas"
     },
     {
       title: "Secult Goiás convoca suplentes do edital de Pontos de Cultura da Lei Paulo Gustavo",
       description: "A Secretaria de Estado da Cultura (Secult) divulga o chamamento de suplentes para a entrega da documentação dos projetos culturais da Lei Paulo Gustavo 2023, conforme publicação do Diário Oficial do Estado (DOE) desta quinta-feira (19/12). Nesta convocação, foram chamados suplentes para o edital nº 20.",
-      image: "ss.jpeg",
+      image: "https://img.ge/ib/mbxy5NtS8274wWP_1742909706.jpeg",
       date: "Há 6 horas"
     }
   ];
