@@ -74,24 +74,24 @@ function createInstagramFeed() {
       hashtags: "#Turismo #ChapadadosVeadeiros #Natureza"
     },
     {
-      image: "https://picsum.photos/600/600?random=4",
+      image: "https://img.ge/ib/SwG9VKcVE7cEk1l_1742908121.jpg",
       likes: "1.9k",
       comments: "267",
-      description: "Pequi: o ouro amarelo do cerrado goiano 🥘",
+      description: "122",
       hashtags: "#Gastronomia #Cultura #Goiás"
     },
     {
-      image: "https://picsum.photos/600/600?random=5",
+      image: "https://img.ge/mXzXj9YmZbp71pX",
       likes: "2.1k",
       comments: "289",
-      description: "Goiânia: a capital do sertanejo e do desenvolvimento 🌆",
+      description: "G3444",
       hashtags: "#Goiânia #Desenvolvimento #Cultura"
     },
     {
-      image: "https://picsum.photos/600/600?random=6",
+      image: "https://img.ge/HBifKU84U4uXyd0",
       likes: "2.7k",
       comments: "356",
-      description: "Bastidores da cobertura especial sobre o agronegócio em Goiás 📱",
+      description: "B4555",
       hashtags: "#Agronegócio #Economia #Goiás"
     }
   ];
