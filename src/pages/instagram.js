@@ -81,14 +81,14 @@ function createInstagramFeed() {
       hashtags: "#Gastronomia #Cultura #Goiás"
     },
     {
-      image: "https://img.ge/mXzXj9YmZbp71pX",
+      image: "https://img.ge/ib/fEfsz2J07eQnZze_1742908121.jpeg",
       likes: "2.1k",
       comments: "289",
       description: "G3444",
       hashtags: "#Goiânia #Desenvolvimento #Cultura"
     },
     {
-      image: "https://img.ge/HBifKU84U4uXyd0",
+      image: "https://img.ge/ib/Ih6CnTBfsYpVkOn_1742908121.jpg",
       likes: "2.7k",
       comments: "356",
       description: "B4555",
@@ -169,7 +169,7 @@ function createInstagramReels() {
       duration: "0:45"
     },
     {
-      thumbnail: "https://img.ge/mRSPm6UqXCqaaRa",
+      thumbnail: "https://img.ge/ib/Kol3TOieLnVV3WE_1742908437.gif",
       title: "Festival Gastronômico de Goiás",
       views: "38k",
       duration: "0:52"

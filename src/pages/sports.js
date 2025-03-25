@@ -15,7 +15,7 @@ export function createSportsPage() {
         <div class="row mb-5">
           <div class="col-lg-8">
             <div class="featured-news position-relative rounded-4 overflow-hidden shadow-lg">
-              <img src="es4.jpg" class="w-100" alt="Notícia em Destaque">
+              <img src="https://img.ge/ib/SwG9VKcVE7cEk1l_1742908121.jpg" class="w-100" alt="Notícia em Destaque">
               <div class="featured-content position-absolute bottom-0 start-0 w-100 p-4 text-white" 
                    style="background: linear-gradient(transparent, rgba(0,0,0,0.9));">
                 <span class="badge bg-success mb-2">Destaque</span>
@@ -115,21 +115,21 @@ function createSportsNews() {
     {
       title: "Vila Nova acerta com o técnico Luizinho Lopes, ex-Brusque",
       description: "O Vila Nova contratou o técnico Luizinho Lopes. Ele tem 42 anos e chegou a Goiânia na noite desta quinta-feira para assinar com o novo clube.",
-      image: "es1.jpeg",
+      image: "https://img.ge/ib/2x3EkzeKQrt8caB_1742908121.jpeg",
       category: "Futebol",
       date: "Há 2 horas"
     },
     {
       title: "18 municípios goianos terão campos sintéticos de futebol society",
       description: "Governo de Goiás vai construir campos de futebol Society em 18 municípios goianos.",
-      image: "es2.jpg",
+      image: "https://img.ge/ib/Ih6CnTBfsYpVkOn_1742908121.jpg",
       category: "Society",
       date: "Há 3 horas"
     },
     {
       title: "Após jogo adiado, Jair Ventura monta time do Atlético Goianiense para decisão na Copa do Brasil",
       description: "O Atlético Goianiense tinha previsto uma viagem para Salvador para entrar em campo no ultimo sábado (18), mas a Confederação Brasileira de Futebol.",
-      image: "es3.jpeg",
+      image: "https://img.ge/ib/fEfsz2J07eQnZze_1742908121.jpeg",
       category: "Tecnico",
       date: "Há 4 horas"
     }
