@@ -159,19 +159,19 @@ function createInstagramReels() {
   const reels = [
     {
       thumbnail: "https://img.ge/ib/XrymznL8vmuuhfX_1742909582.png",
-      title: "Medico Falece Durante Cirurgia",
+      title: "Medico Falece Durante Cirurgia - 22/04/2025",
       views: "50k",
       duration: "0:59"
     },
     {
       thumbnail: "https://img.ge/ib/GvB9nngUrhulZV9_1742909518.png",
-      title: "Homem foge com viatura da PRF",
+      title: "Homem foge com viatura da PRF - 20/04/2025",
       views: "45k",
       duration: "0:45"
     },
     {
       thumbnail: "https://img.ge/ib/Kol3TOieLnVV3WE_1742908437.gif",
-      title: "Exposiçãoo Goias",
+      title: "Exposição Goias - 18/04/2025",
       views: "38k",
       duration: "0:12"
     }
