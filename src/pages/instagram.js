@@ -41,6 +41,7 @@ export function createInstagramPage() {
 
         <div class="instagram-reels mt-5">
           <h3 class="section-title mb-4">Reels em Destaque</h3>
+          <h2 class="section-title mb-2">15 de abril de 2025</h2>
           <div class="row g-4">
             ${createInstagramReels()}
           </div>
