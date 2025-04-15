@@ -173,7 +173,6 @@ function createInstagramReels() {
       title: "Exposiçãoo Goias",
       views: "38k",
       duration: "0:12"
-      date: "15/04/2025 13:37"
     }
   ];
 
