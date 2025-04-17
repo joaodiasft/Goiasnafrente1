@@ -56,15 +56,15 @@ export function createNewsSection() {
 function createFeaturedNews() {
   return `
     <div class="featured-news position-relative rounded-4 overflow-hidden shadow-lg h-100">
-      <img src="https://picsum.photos/800/400?random=1" class="w-100 h-100 object-fit-cover" alt="Notícia em Destaque">
+      <img src="https://img.ge/i/7zCHH63.png" class="w-100 h-100 object-fit-cover" alt="Notícia em Destaque">
       <div class="featured-content position-absolute bottom-0 start-0 w-100 p-4 text-white" 
            style="background: linear-gradient(transparent, rgba(0,0,0,0.9));">
         <span class="badge bg-success mb-2">Destaque</span>
-        <h3 class="mb-2">Goiás Lidera Ranking de Desenvolvimento Sustentável</h3>
+        <h3 class="mb-2">Meia Ponte Expedição</h3>
         <p class="mb-3">Estado se destaca em práticas ambientais e crescimento econômico sustentável.</p>
         <div class="d-flex align-items-center gap-3">
-          <span><i class="bi bi-clock"></i> Há 1 hora</span>
-          <span><i class="bi bi-eye"></i> 1.2k visualizações</span>
+          <span><i class="bi bi-clock"></i> Há 20 Dias</span>
+          <span><i class="bi bi-eye"></i> 9.2k visualizações</span>
           <a href="#" class="btn btn-sm btn-light">Ler mais</a>
         </div>
       </div>
