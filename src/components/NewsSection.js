@@ -75,9 +75,9 @@ function createFeaturedNews() {
 function createTrendingNews() {
   const trendingNews = [
     {
-      title: "Novo parque ecológico será inaugurado em Senador Canedo neste fim de semana",
-      views: "1.5k",
-      time: "Publicado em 17/04/2025 às 13h20"
+      title: "Davi Alcolumbre reassume presidência do Senado com apoio expressivo.",
+      views: "1k",
+      time: "Publicado em 18/04/2025 às 08h00"
     },
     {
       title: "IFG abre inscrições para cursos gratuitos de qualificação profissional",
@@ -118,18 +118,18 @@ function createTrendingNews() {
 function createMainNews() {
   const mainNews = [
     {
-      title: "Homem desaparece em Aparecida e família desconfia de relação com jogo do Tigrinho ",
-      description: "Geraldo Cavalcante Nogueira participava de um grupo em um aplicativo relacionado apenas ao Tigrinho e tinha costume de jogar na plataforma.",
-      category: "Dinheiro",
-      date: "Publicado em 17/04/2025 às 14h00",
-      image: "https://img.ge/i/zw0Ah77.png"
+      title: "Bolsonaro réu por tentativa de golpe de Estado",
+      description: "STF forma maioria e torna Bolsonaro réu por tentativa de golpe de Estado.Com decisão unânime, o ex-presidente agora enfrentará julgamento por sua atuação após as eleições de 2022. Entenda os próximos passos da justiça.",
+      category: "Politica",
+      date: "Publicado em 18/04/2025 às 08h00",
+      image: "https://img.ge/i/sq6F346.jpeg"
     },
     {
-      title: "Mulher é presa sob suspeita de envenenar três pessoas com ovo de Páscoa no MA",
-      description: "Segundo a Polícia Civil, ela é ex-namorada do atual companheiro de uma das vítimas",
-      category: "Morte",
-      date: "Publicado em 17/04/2025 às 16h00",
-      image: "https://img.ge/i/apN5t6.png"
+      title: "Caiado dispara contra o governo Lula: Goiás está sendo perseguido!",
+      description: "O governador do Estado denuncia ações federais que, segundo ele, têm prejudicado o desenvolvimento de Goiás.",
+      category: "Politica",
+      date: "Publicado em 18/04/2025 às 08h00",
+      image: "https://img.ge/i/IcvXZ46.jpeg"
     }
   ];
 
