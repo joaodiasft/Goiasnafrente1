@@ -36,6 +36,12 @@ function createCultureNews() {
       description: "A Secretaria de Estado da Cultura (Secult) divulga o chamamento de suplentes para a entrega da documentação dos projetos culturais da Lei Paulo Gustavo 2023, conforme publicação do Diário Oficial do Estado (DOE) desta quinta-feira (19/12). Nesta convocação, foram chamados suplentes para o edital nº 20.",
       image: "https://img.ge/ib/mbxy5NtS8274wWP_1742909706.jpeg",
       date: "Há 6 horas"
+    },
+    {
+      title: "A NATUREZA CHAMA! ",
+      description: "Vem aí a 3ª Expedição Rio Meia Ponte! Uma jornada de consciência ambiental, aventura e ação em defesa do nosso maior patrimônio natural! 🌎",
+      image: "https://img.ge/i/kcTnb84.png",
+      date: "Publicada 25/03/2025"
     }
   ];
 
