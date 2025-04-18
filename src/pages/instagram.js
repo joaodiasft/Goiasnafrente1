@@ -185,7 +185,7 @@ function createInstagramReels() {
           <div class="d-flex justify-content-between align-items-center">
             <span><i class="bi bi-play-fill"></i> ${reel.views}</span>
             <span>${reel.duration}</span>
-            <span>17/04/2025</span>
+            <span>Publicado dia 25/03/2025</span>
           </div>
         </div>
       </div>
