@@ -39,7 +39,7 @@ function createCultureNews() {
     },
     {
       title: "A NATUREZA CHAMA! ",
-      description: "Vem aí a 3ª Expedição Rio Meia Ponte! Uma jornada de consciência ambiental, aventura e ação em defesa do nosso maior patrimônio natural! 🌎",
+      description: "Vem aí a 3ª Expedição Rio Meia Ponte! Uma jornada de consciência ambiental, aventura e ação em defesa do nosso maior patrimônio natural! 🌎  📅 Prepare-se para viver uma experiência única, conectar-se com o meio ambiente e fazer parte da transformação! 🌱 Preservar é agir!  🔍 Acompanhe tudo com a gente e descubra por que o Rio Meia Ponte é o coração de Goiás! 💚",
       image: "https://img.ge/i/kcTnb84.png",
       date: "Publicada 25/03/2025"
     }
