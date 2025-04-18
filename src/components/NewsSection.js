@@ -75,19 +75,19 @@ function createFeaturedNews() {
 function createTrendingNews() {
   const trendingNews = [
     {
-      title: "Caiado acompanha envio de donativos ao RS e lança temporada Mais Araguaia 2024",
-      views: "2.5k",
-      time: "2 horas"
-    },
-    {
-      title: "Polícia Civil volta a prender casal e mais um por tráfico de drogas em Luziânia",
-      views: "1.8k",
-      time: "3 horas"
-    },
-    {
-      title: "Caseiro é encontrado morto e com corpo devorado por porcos",
+      title: "Novo parque ecológico será inaugurado em Senador Canedo neste fim de semana",
       views: "1.5k",
-      time: "4 horas"
+      time: "Publicado em 17/04/2025 às 13h20"
+    },
+    {
+      title: "IFG abre inscrições para cursos gratuitos de qualificação profissional",
+      views: "1.8k",
+      time: "Publicado em 17/04/2025 às 15h30"
+    },
+    {
+      title: "Projeto “Goiás Mais Verde” atinge marca de 1 milhão de árvores plantadas",
+      views: "1.5k",
+      time: "Publicado em 17/04/2025 às 14h00"
     }
   ];
 
@@ -118,18 +118,18 @@ function createTrendingNews() {
 function createMainNews() {
   const mainNews = [
     {
-      title: "Casal da Cidade de Goiás morre em acidente de automóvel na GO-154 em Ceres - GO",
-      description: "O fato aconteceu no início da noite no perímetro urbano de Ceres, no trevo que dá acesso ao Instituto Federal Goiano (IF Goiano). Na batida entre os dois veículos o homem perdeu a vida ainda no local e a mulher foi levada para unidade de saúde, mas não resistiu e também faleceu..",
-      category: "Acidente",
-      date: "Há 2 horas",
-      image: "/src/imgs/ger1.jpeg"
+      title: "Homem desaparece em Aparecida e família desconfia de relação com jogo do Tigrinho ",
+      description: "Geraldo Cavalcante Nogueira participava de um grupo em um aplicativo relacionado apenas ao Tigrinho e tinha costume de jogar na plataforma.",
+      category: "Dinheiro",
+      date: "Publicado em 17/04/2025 às 14h00",
+      image: "https://img.ge/i/zw0Ah77.png"
     },
     {
-      title: "Saúde alerta para importância da vacina contra influenza",
-      description: "Desde o dia 2 de maio, a SES-GO, atendendo recomendação do MS, ampliou a vacinação contra a influenza para toda a população acima de seis meses de idade. O MS acentuou que, apesar da alta vulnerabilidade dos grupos iniciais definidos como público-alvo da vacinação, a ampliação se justificou pelo benefício que o imunizante proporciona para a população não contemplada nos grupos prioritários..",
-      category: "Saúde",
-      date: "Há 3 horas",
-      image: "/src/imgs/ger2.jpg"
+      title: "Mulher é presa sob suspeita de envenenar três pessoas com ovo de Páscoa no MA",
+      description: "Segundo a Polícia Civil, ela é ex-namorada do atual companheiro de uma das vítimas",
+      category: "Morte",
+      date: "Publicado em 17/04/2025 às 16h00",
+      image: "https://img.ge/i/apN5t6.png"
     }
   ];
 
@@ -143,17 +143,17 @@ function createMainNews() {
 function createSideNews() {
   const sideNews = [
     {
-      title: "Vila Nova finalza participação na Copa Verde diante do Paysandu",
-      category: "Esportes",
+      title: "Linha de ônibus intermunicipal entre Goiânia e Trindade ganha mais horários",
+      category: "Mobilidade",
       date: "Há 4 horas"
     },
     {
-      title: "Ismael Alexandrino provoca Sandro Mabel: “Dura até quando a sua pré-candidatura?”",
-      category: "Política",
+      title: "Feira do Empreendedor movimenta R$ 15 milhões em negócios em Goiânia",
+      category: "Economia",
       date: "Há 5 horas"
     },
     {
-      title: "Abertas inscrições para curso superior em Produção Cênica",
+      title: "Exposição “Arte do Cerrado” abre no Centro Cultural Oscar Niemeyer",
       category: "Cultura",
       date: "Há 6 horas"
     }
