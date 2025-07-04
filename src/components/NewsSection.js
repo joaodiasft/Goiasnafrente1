@@ -56,6 +56,7 @@ export function createNewsSection() {
 function createFeaturedNews() {
   return `
     <div class="featured-news position-relative rounded-4 overflow-hidden shadow-lg h-100">
+    <img src="https://img.ge/i/tvE4951.gif" alt="Cadeiras Cidadão" class="w-100 mb-2">
       <img src="https://img.ge/i/7zCHH63.png" class="w-100 h-100 object-fit-cover" alt="Notícia em Destaque">
       <div class="featured-content position-absolute bottom-0 start-0 w-100 p-4 text-white" 
            style="background: linear-gradient(transparent, rgba(0,0,0,0.9));">
