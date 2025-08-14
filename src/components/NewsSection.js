@@ -66,7 +66,7 @@ function createFeaturedNews() {
         <div class="d-flex align-items-center gap-3">
           <span><i class="bi bi-clock"></i> Há 20 Dias</span>
           <span><i class="bi bi-eye"></i> 9.2k visualizações</span>
-          <a href="#" class="btn btn-sm btn-light">Ler mais</a>
+          <a href="https://portal.al.go.leg.br/?fbclid=PAQ0xDSwMK3ZJleHRuA2FlbQIxMQABp6hsqpHFoh3r9k2TSymMKNc9_J_E-zrWivR_ZsF5tFOVLUYqgvG2bK0fQ_vA_aem_R3xQKs2CDXxlesqQu7W2aQ" class="btn btn-sm btn-light">Conhecer mais!</a>
         </div>
       </div>
     </div>
