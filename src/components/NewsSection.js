@@ -119,19 +119,36 @@ function createTrendingNews() {
 function createMainNews() {
   const mainNews = [
     {
-      title: "Bolsonaro réu por tentativa de golpe de Estado",
-      description: "STF forma maioria e torna Bolsonaro réu por tentativa de golpe de Estado.Com decisão unânime, o ex-presidente agora enfrentará julgamento por sua atuação após as eleições de 2022. Entenda os próximos passos da justiça.",
-      category: "Politica",
-      date: "Publicado em 18/04/2025 às 08h00",
-      image: "https://img.ge/i/sq6F346.jpeg"
-    },
-    {
-      title: "Caiado dispara contra o governo Lula: Goiás está sendo perseguido!",
-      description: "O governador do Estado denuncia ações federais que, segundo ele, têm prejudicado o desenvolvimento de Goiás.",
-      category: "Politica",
-      date: "Publicado em 18/04/2025 às 08h00",
-      image: "https://img.ge/i/IcvXZ46.jpeg"
-    }
+    id: 'politica-bolsonaro-reu',
+    title: "Bolsonaro réu por tentativa de golpe de Estado",
+    description: "STF forma maioria e torna Bolsonaro réu por tentativa de golpe de Estado. Com decisão unânime, o ex-presidente agora enfrentará julgamento por sua atuação após as eleições de 2022.",
+    fullContent: `
+      <p>O Supremo Tribunal Federal (STF) formou maioria para aceitar a denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o ex-presidente Jair Bolsonaro, tornando-o réu pelos crimes de tentativa de abolição violenta do Estado Democrático de Direito e golpe de Estado.</p>
+      <p>A decisão, que alcançou unanimidade entre os ministros, baseia-se em investigações que apontam a participação do ex-presidente em uma trama para impedir a posse do presidente eleito Luiz Inácio Lula da Silva e manter-se no poder após as eleições de 2022.</p>
+      <p>Com o recebimento da denúncia, o processo agora entra na fase de instrução, na qual serão ouvidas testemunhas de acusação e de defesa e coletadas novas provas. Ao final desta fase, o STF decidirá se condena ou absolve o ex-presidente.</p>
+    `,
+    image: "https://img.ge/i/sq6F346.jpeg",
+    date: "Publicado em 18/04/2025 às 08h00",
+    category: "Política",
+    site: "Goias na frente"
+  },
+  {
+    id: 'politica-caiado-perseguicao',
+    title: "Caiado dispara contra o governo Lula: Goiás está sendo perseguido!",
+    description: "O governador do Estado denuncia ações federais que, segundo ele, têm prejudicado o desenvolvimento de Goiás.",
+    fullContent: `
+      <p>Em um pronunciamento contundente nesta sexta-feira, o governador de Goiás, Ronaldo Caiado, acusou o governo federal, liderado pelo presidente Luiz Inácio Lula da Silva, de promover uma "perseguição" deliberada contra o estado.</p>
+      “Estou sendo perseguido. Onde as privatizações das rodovias estão sendo feitas excluíram as de Goiás. O Ceron [Rogério Ceron, secretário do Tesouro], que assessora o [ministro da Fazenda, Fernando] Haddad, fez uma portaria exclusiva para vetar um empréstimo de R$ 700 milhões junto ao Banco Mundial, depois de ter sido aprovado pelo Tesouro e pela Procuradoria-Geral da Fazenda Nacional. As ações do governo são direcionadas não com um viés técnico, mas muito mais de retaliação a um governo que está dando certo”, disse o governador.
+<br>
+Caiado também rebateu a ministra-chefe da Secretaria de Relações Institucionais, Gleisi Hoffmann, cuja opinião é a de que os governadores deveriam “agradecer” ao presidente Lula pela negociação de dívidas estaduais.
+<br>
+“Ela não pode cobrar por algo que não aconteceu. [É] a viúva Porcina que foi sem ter sido. O Propag [Programa de Pleno Pagamento de Dívidas dos Estados], você não tem nem a legislação. O que eu tenho de benefício e o que eu tenho de renegociação das dívidas construí no governo anterior. Não estou entendendo essa cobrança”.
+    `,
+    image: "https://img.ge/i/IcvXZ46.jpeg",
+    date: "Publicado em 18/04/2025 às 08h00",
+    category: "Política",
+    site: "Goias na frente"
+  }
   ];
 
   return mainNews.map(item => `
