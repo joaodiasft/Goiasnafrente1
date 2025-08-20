@@ -53,7 +53,7 @@ function createCultureNews() {
           <small class="text-muted">${news.date}</small>
           <h5 class="card-title mt-2">${news.title}</h5>
           <p class="card-text">${news.description}</p>
-          <a href="#" class="btn btn-outline-success mt-auto">Ler mais</a>
+          <a href="${'/noticias'}" class="btn btn-outline-success mt-auto">Ler mais</a>
         </div>
       </div>
     </div>
