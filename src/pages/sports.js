@@ -24,7 +24,7 @@ export function createSportsPage() {
                 <div class="d-flex align-items-center gap-3">
                   <span><i class="bi bi-clock"></i> Há 1 hora</span>
                   <span><i class="bi bi-eye"></i> 5.2k visualizações</span>
-                  <a href="https://portal.al.go.leg.br" class="btn btn-sm btn-light">Ler mais</a>
+                  <a href="${'/noticias'}" class="btn btn-outline-success mt-auto">Ler mais</a>
                 </div>
               </div>
             </div>
