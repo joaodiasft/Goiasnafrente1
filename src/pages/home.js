@@ -48,49 +48,6 @@ export function createHomePage() {
       <!-- News Sections -->
       ${createNewsSection()}
 
-  <!-- Conteúdo Principal com Sidebar para o Anúncio -->
-                <section class="py-5">
-                    <div class="container">
-                        <div class="row">
-                            <!-- Coluna Esquerda: Notícias -->
-                            <div class="col-lg-8">
-                                <h2 class="mb-4 pb-2 border-bottom border-success border-2 d-inline-block">Destaques do Estado</h2>
-                                <div class="row">
-                                    ${createNewsCards()} 
-                                </div>
-                            </div>
-
-                            <!-- Coluna Direita: Sidebar com o Anúncio -->
-                            <div class="col-lg-4 mt-5 mt-lg-0">
-                                <div class="ad-container">
-                                    <!-- WIDGET DE PUBLICIDADE ADICIONADO AQUI -->
-                                    <div class="mb-4 text-center">
-                                        <span class="ad-label">Publicidade</span>
-                                        <a href="#" class="d-block ad-banner">
-                                            <img src="https://i.im.ge/2025/12/05/4c6WZp.300X500PX-RACISMO-CMG-1.gif" 
-                                                 alt="Campanha Contra o Racismo" 
-                                                 class="img-fluid w-100" 
-                                                 style="max-width: 300px; height: auto;">
-                                        </a>
-                                        <div class="mt-2 text-muted small">
-                                            Apoie esta causa.
-                                        </div>
-                                    </div>
-
-                                    <!-- Outros widgets poderiam vir aqui -->
-                                    <div class="card border-0 bg-light p-3">
-                                        <h6 class="fw-bold">Mais Lidas</h6>
-                                        <ul class="list-unstyled mb-0">
-                                            <li class="mb-2"><a href="#" class="text-decoration-none text-dark">Acidente na BR-153...</a></li>
-                                            <li class="mb-2"><a href="#" class="text-decoration-none text-dark">Nova frente fria chega...</a></li>
-                                            <li><a href="#" class="text-decoration-none text-dark">Concurso da PMGO...</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
   
 
 
@@ -123,3 +80,4 @@ export function createHomePage() {
   `;
 
 }
+
