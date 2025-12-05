@@ -9,7 +9,13 @@ export function createNewsSection() {
           ${createFeaturedNews()}
         </div>
         <div class="col-lg-4">
-          ${createTrendingNews()}
+        <!-- GIF adicionado -->
+              <img 
+                src="https://i.im.ge/2025/12/05/4c6WZp.300X500PX-RACISMO-CMG-1.gif"
+                alt="Campanha contra o racismo"
+                class="img-fluid rounded-3 shadow-sm mb-4"
+                style="max-width: 300px;"
+              />
         </div>
       </div>
 
