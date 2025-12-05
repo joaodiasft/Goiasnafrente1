@@ -13,15 +13,7 @@ export function createHomePage() {
               <h1 class="display-4 fw-bold mb-4">Bem-vindo ao Goiás na Frente</h1>
               <p class="lead mb-4">Seu portal de notícias mais completo sobre o estado de Goiás, trazendo informação de qualidade e credibilidade.</p>
               
- <!-- GIF adicionado -->
-              <img 
-                src="https://i.im.ge/2025/12/05/4c6WZp.300X500PX-RACISMO-CMG-1.gif"
-                alt="Campanha contra o racismo"
-                class="img-fluid rounded-3 shadow-sm mb-4"
-                style="max-width: 300px;"
-              />
-
-
+ 
               
               <div class="d-flex gap-3">
                 <a href="/noticias" class="btn btn-light btn-lg" data-route="/noticias">
@@ -91,5 +83,6 @@ export function createHomePage() {
   `;
 
 }
+
 
 
